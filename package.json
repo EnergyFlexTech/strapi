@@ -10,18 +10,15 @@
     "lodash.set": "^4.3.2",
     "mime-types": "^2.1.27"
   },
-  "name": "my-app-name",
+  "name": "energy-flex-strapi",
   "private": true,
   "version": "0.1.0",
-  "description": "A Strapi application",
+  "description": "Energy Flex CMS",
   "scripts": {
     "dev": "strapi develop",
     "start": "strapi start",
     "build": "strapi build",
     "strapi": "strapi"
-  },
-  "author": {
-    "name": "A Strapi developer"
   },
   "strapi": {
     "template": "blog"
