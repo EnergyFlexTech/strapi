@@ -16,6 +16,7 @@ module.exports = [
             "data:",
             "blob:",
             "dl.airtable.com",
+            "market-assets.strapi.io",
             `${process.env.AWS_BUCKET}.s3.${process.env.AWS_REGION}.amazonaws.com`,
           ],
           "media-src": [
@@ -23,6 +24,7 @@ module.exports = [
             "data:",
             "blob:",
             "dl.airtable.com",
+            "market-assets.strapi.io",
             `${process.env.AWS_BUCKET}.s3.${process.env.AWS_REGION}.amazonaws.com`,
           ],
           upgradeInsecureRequests: null,
